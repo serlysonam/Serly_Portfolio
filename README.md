@@ -9,19 +9,30 @@
 
 ### SKILLS / TRAINING
 **Cloud Platforms:** Amazon Web Services, Microsoft Azure
+
 **laC & Automation:** Terraform, Ansible
+
 **CI/CD Tools:** Jenkins, GitLab, Udeploy, GitHub Actions
+
 **Monitoring:** CloudWatch, Prometheus
+
 **Virtualization & Containerization:** Docker, Kubernetes
+
 **Language & Scripting:** Bash/Shell scripting, Java, Python, SQL, Unix
+
 **Operating Systems:** Linux, Windows 
+
 **Data Analytics tools & packages:** QuickSight, Pandas, Numpy, Matplotlib
 
 ### CERTIFICATIONS
 **Amazon Web Services:** AWS Certified Solutions Architect – Associate
+
 **LinkedIn:** DevSecOps: Building a Secure Continuous Delivery Pipeline
+
 **Udemy:** DevOps Project - CI/CD with Git Jenkins Ansible Kubernetes
+
 **World Education Services (WES):** Verified International Academic Qualifications
+
 **WhiteHat Jr:** Basic, iOS and Android App Development
 **Honors Convocation:** Academic achievement award from University of Louisiana at Lafayette
 
