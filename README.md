@@ -1,5 +1,8 @@
 # DevOps/ AWS Engineer
 
+### SUMMARY
+4+ years experienced Cloud DevOps Engineer possessing in-depth experience of effectively handling development, configuration and deployment of infrastructure and services managing cloud-based technology. Gained hands-on experience implementing core DevOps concepts such as containerization, continuous integration/continuous deployment, version control, cloud computing etc. by using wide variety of technologies while working with different operating system and programming language.
+
 ### EDUCATION
 **MASTER OF SCIENCE** (Computer Science), University of Louisiana at Lafayette, (4.00/ 4.00) ------ 2022 - 2024
 
@@ -34,7 +37,9 @@
 **World Education Services (WES):** Verified International Academic Qualifications
 
 **WhiteHat Jr:** Basic, iOS and Android App Development
+
 **Honors Convocation:** Academic achievement award from University of Louisiana at Lafayette
+
 
 
 
