@@ -82,5 +82,20 @@ Developed both the front-end and back-end using SQL Developer. This involved cre
 
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/serlysonam)
 
+
+
+<a href="https://www.linkedin.com/in/serlysonam" target="_blank" style="margin-right: 30px;">
+  <img alt="SerlySonam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/serlysonam" target="_blank" style="margin-right: 50px;">
+  <img alt="SerlySonam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="mailto:serly.sonam@gmail.com" style="margin-right: 10px;">
+  <img alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://github.com/serlysonam">
+  <img alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
 [linkedin]: https://www.linkedin.com/in/serlysonam
 [instagram]: https://www.instagram.com/serly_sonam
