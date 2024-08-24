@@ -3,6 +3,25 @@
 ## 📌 ABOUT ME
 4+ years experienced Cloud DevOps Engineer possessing in-depth experience of effectively handling development, configuration and deployment of infrastructure and services managing cloud-based technology. Gained hands-on experience implementing core DevOps concepts such as containerization, continuous integration/continuous deployment, version control, cloud computing etc. by using wide variety of technologies while working with different operating system and programming language.
 
+##  📫 CONNECT ME @ 
+
+<a href="https://www.linkedin.com/in/serlysonam" target="_blank" style="margin-right: 20px;">
+  <img alt="SerlySonam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/serly_sonam" target="_blank" style="margin-right: 20px;">
+  <img alt="SerlySonam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="mailto:serly.sonam@gmail.com" style="margin-right: 20px;">
+  <img alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://github.com/serlysonam">
+  <img alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+
+[linkedin]: https://www.linkedin.com/in/serlysonam
+[instagram]: https://www.instagram.com/serly_sonam
+
 
 ## 🎖 CERTIFICATIONS
 
@@ -72,21 +91,4 @@ Services used: a)S3 b)IAM c)QuickSight d)Glue e)Lambda f)Athena
 Developed both the front-end and back-end using SQL Developer. This involved creating the user interface components and logic for data presentation, input, and interaction (front-end), as well as designing and implementing the database schema, queries, and procedures to manage and manipulate data (back-end).
 
 
-##  📫 CONNECT ME @ 
 
-<a href="https://www.linkedin.com/in/serlysonam" target="_blank" style="margin-right: 20px;">
-  <img alt="SerlySonam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/serly_sonam" target="_blank" style="margin-right: 20px;">
-  <img alt="SerlySonam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="mailto:serly.sonam@gmail.com" style="margin-right: 20px;">
-  <img alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://github.com/serlysonam">
-  <img alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-
-[linkedin]: https://www.linkedin.com/in/serlysonam
-[instagram]: https://www.instagram.com/serly_sonam
