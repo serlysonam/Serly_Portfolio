@@ -77,7 +77,7 @@ Developed both the front-end and back-end using SQL Developer. This involved cre
 <a href="https://www.linkedin.com/in/serlysonam" target="_blank" style="margin-right: 20px;">
   <img alt="SerlySonam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/serlysonam" target="_blank" style="margin-right: 20px;">
+<a href="https://www.instagram.com/serly_sonam" target="_blank" style="margin-right: 20px;">
   <img alt="SerlySonam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="mailto:serly.sonam@gmail.com" style="margin-right: 20px;">
