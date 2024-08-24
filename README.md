@@ -87,5 +87,6 @@ Developed both the front-end and back-end using SQL Developer. This involved cre
   <img alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+
 [linkedin]: https://www.linkedin.com/in/serlysonam
 [instagram]: https://www.instagram.com/serly_sonam
