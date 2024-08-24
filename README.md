@@ -74,23 +74,13 @@ Developed both the front-end and back-end using SQL Developer. This involved cre
 
 ##  📫 CONNECT ME @ 
 
-[<img align="left" alt="SerlySonam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="SerlySonam| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:serly.sonam@gmail.com)
-
-[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/serlysonam)
-
-
-
-<a href="https://www.linkedin.com/in/serlysonam" target="_blank" style="margin-right: 30px;">
+<a href="https://www.linkedin.com/in/serlysonam" target="_blank" style="margin-right: 20px;">
   <img alt="SerlySonam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/serlysonam" target="_blank" style="margin-right: 50px;">
+<a href="https://www.instagram.com/serlysonam" target="_blank" style="margin-right: 20px;">
   <img alt="SerlySonam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="mailto:serly.sonam@gmail.com" style="margin-right: 10px;">
+<a href="mailto:serly.sonam@gmail.com" style="margin-right: 20px;">
   <img alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://github.com/serlysonam">
