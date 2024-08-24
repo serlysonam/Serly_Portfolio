@@ -1,4 +1,4 @@
-# 🧰  DevOps/ AWS Engineer
+# 💎  DevOps/ AWS Engineer
 
 ## 📌 ABOUT ME
 4+ years experienced Cloud DevOps Engineer possessing in-depth experience of effectively handling development, configuration and deployment of infrastructure and services managing cloud-based technology. Gained hands-on experience implementing core DevOps concepts such as containerization, continuous integration/continuous deployment, version control, cloud computing etc. by using wide variety of technologies while working with different operating system and programming language.
@@ -16,61 +16,31 @@
 
 **MASTER OF SCIENCE** (Computer Science), University of Louisiana at Lafayette, (4.00/ 4.00) ------ 2022 - 2024
 
-**MASTER OF TECHNOLOGY** (Environmental Science and Engineering), Veer Surendra Sai University of Technology, (9.27/ 10.00) ----- 2013 - 2015
+**MASTER OF TECHNOLOGY** (Environmental Science), Veer Surendra Sai University of Technology, (9.27/ 10.00) ----- 2013 - 2015
 
 **BACHELOR OF TECHNOLOGY** (Civil Engineering), Institute of Technical education and research, (8.01/ 10.00) ----- 2009 - 2013
 
 ## 📝 EXPERIENCE
 **Volunteer (University of Louisiana at Lafayette)** ----- June 2024 – Present
 
-•	Implementing an AWS-based data pipeline for Data Analytics, included ETL, data lake management and dynamic reporting via Quick sight. (Services used: S3, AM, Quick Sight, Glue, Lambda, Athena)
-
-•	Developing automation and utilities using Shell/Bash Scripting to improve system performance and reliability through comprehensive platform testing and quality checks.
+Using AWS services like S3, Glue, Lambda, and Athena, I developed an analytics data pipeline that included data lake management, ETL procedures, and dynamic reporting using QuickSight. In addition, I created utilities and automation using Shell/Bash scripting to improve system dependability and performance by doing extensive platform testing and quality assurance.
 
 **Graduate Teaching Assistant (University of Louisiana at Lafayette)** ----- Jan 2023 – May 2024
 
-•	Expert in configuration management, application deployment and service orchestration tools using Ansible. 
-
-•	Developed both the front-end and back-end using SQL Developer as well as designed and implemented the database schema, queries, and procedures to manage and manipulate data.
-
-•	Monitored and analyzed the impact of network latency on the cloud-based service deployments.
-
-•	Assisted professor and mentored students with the course Cyber Security and Data Structures & Software Design.
-
-•	Performed record keeping duties associated with the classroom preparing slides, quizzes, and grading.
+I am skilled in configuration management, application deployment, and service orchestration with Ansible. I developed both front-end and back-end components using SQL Developer, including designing database schemas and handling data queries. I monitored network latency impacts on cloud-based services and assisted a professor while mentoring students in Cyber Security and Data Structures & Software Design. Additionally, I managed classroom record-keeping, prepared slides, quizzes, and grading.
 
 **Coding Instructor (White-hat Junior)** ----- Sep 2020 – Dec 2021
 
-•	Collaborated with development teams to define CI/CD and cloud best practices and ensure smooth pipeline execution.
-
-•	Mentored a team of 5 teachers, conducting daily progress meetings to discuss student performance, share best practices, and ensure alignment with educational objectives, resulting in a 95% increase in class efficiency and student engagement.
-
-•	Taught JavaScript, AWS, and mathematics concepts to 49 national and international students.
-
-•	Helped students with environment setup and network troubleshooting.
+I worked with development teams to establish CI/CD and cloud best practices, ensuring smooth pipeline execution. Additionally, I mentored a team of 5 teachers, leading daily meetings to enhance student performance and alignment with educational goals, which led to a 95% boost in class efficiency and engagement. I taught JavaScript, AWS, and mathematics to 49 students from various backgrounds and assisted with environment setup and network troubleshooting.
 
 **DevOps Engineer (Softvel)** -----	April 2018 – Aug 2020
 
-•	Developed and implemented CI/CD architectures using tools such as Jenkins, Maven, SonarQube, GIT, Ansible, Artifactory, and Nexus, leading to significant reductions in deployment time and notable increases in deployment frequency.
-
-•	Integrated Sonarcloud with JIRA forcode quality and security reporting. JIRA dashboard to streamline ticket tracking and management.
-
-•	Orchestrated AWS deployments utilizing services such as EC2, S3, Lambda, auto-scaling, CloudWatch, CloudTrail, and VPC. Created and executed CI/CD pipelines across various projects, significantly enhancing deployment speed.
-
-•	Automated infrastructure provisioning and configuration management with Terraform and Ansible, minimizing manual intervention and speeding up deployment processes.
-
-•	Used Docker file to create containers and Integrated docker with Jenkins to achieve continuous delivery goals on the highly scalable environment.
-
-•	Developed and optimized monitoring solutions using custom AWS dashboards, leading to a significant decrease in response time to critical incidents.
-
+With the help of Jenkins, Maven, and Ansible, I designed and executed CI/CD pipelines that greatly shortened deployment times and boosted frequency. To improve code quality tracking, SonarCloud was integrated with JIRA. automated scaling and monitoring of AWS deployments utilizing EC2, S3, and Lambda to optimize workflows. Integrated Docker with Jenkins for scalable continuous delivery, and automated infrastructure provisioning using Terraform and Ansible. Faster incident reactions are the result of optimized monitoring with personalized AWS dashboards.
 
 **Lecturer (Konark Institute of Science and Technology)**	-----	July 2015 – Feb 2017
 
-•	Teacher for undergrad students, provided one-on-one support to students needing extra help.
+As an undergraduate teacher, I provided personalized support to students needing extra help, assisted over 40 students with their thesis research, and offered constructive feedback on their presentations. Additionally, I created engaging presentations to improve comprehension and boost class participation.
 
-•	Successfully assisted 40+ students in conducting their thesis research and gave constructive feedback when they presented their findings.
-
-•	Prepared engaging presentations to improve student comprehension and increase class participation. 
 
 ## 🎯 SKILLS / TRAINING
 **Cloud Platforms:** Amazon Web Services, Microsoft Azure
