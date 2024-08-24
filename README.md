@@ -3,15 +3,6 @@
 ## 📌 ABOUT ME
 4+ years experienced Cloud DevOps Engineer possessing in-depth experience of effectively handling development, configuration and deployment of infrastructure and services managing cloud-based technology. Gained hands-on experience implementing core DevOps concepts such as containerization, continuous integration/continuous deployment, version control, cloud computing etc. by using wide variety of technologies while working with different operating system and programming language.
 
-## 📫 CONNECT ME @ 
-
-[<img align="left" alt="SerlySonam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SerlySonam| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:serly.sonam@gmail.com)
-[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/serlysonam)
-
-[linkedin]: https://www.linkedin.com/in/serlysonam
-[instagram]: https://www.instagram.com/serly_sonam
 
 ## 🎖 CERTIFICATIONS
 
@@ -81,4 +72,12 @@ Services used: a)S3 b)IAM c)QuickSight d)Glue e)Lambda f)Athena
 Developed both the front-end and back-end using SQL Developer. This involved creating the user interface components and logic for data presentation, input, and interaction (front-end), as well as designing and implementing the database schema, queries, and procedures to manage and manipulate data (back-end).
 
 
+## 📫 CONNECT ME @ 
 
+[<img align="left" alt="SerlySonam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SerlySonam| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:serly.sonam@gmail.com)
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/serlysonam)
+
+[linkedin]: https://www.linkedin.com/in/serlysonam
+[instagram]: https://www.instagram.com/serly_sonam
