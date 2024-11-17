@@ -66,12 +66,11 @@
 ## 🏆 FEATURED PROJECTS
 
 **Youtube Analysis Using Cloud**
-Associated with University of Louisiana at LafayetteAssociated with University of Louisiana at Lafayette
-The Data Engineering YouTube Analysis Project focuses on managing and analyzing YouTube video data, emphasizing categories and trends, using AWS cloud services for efficient data processing and reporting.
+* The Data Engineering YouTube Analysis Project focuses on managing and analyzing YouTube video data, emphasizing categories and trends, using AWS cloud services for efficient data processing and reporting.
 Services used: a)S3 b)IAM c)QuickSight d)Glue e)Lambda f)Athena
 
 **Data Base Management**
-Developed both the front-end and back-end using SQL Developer. This involved creating the user interface components and logic for data presentation, input, and interaction (front-end), as well as designing and implementing the database schema, queries, and procedures to manage and manipulate data (back-end).
+* Developed both the front-end and back-end using SQL Developer. This involved creating the user interface components and logic for data presentation, input, and interaction (front-end), as well as designing and implementing the database schema, queries, and procedures to manage and manipulate data (back-end).
 
 ##  📫 CONNECT ME @ 
 
