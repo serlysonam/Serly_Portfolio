@@ -17,20 +17,19 @@
 
 **MASTER OF SCIENCE** (Computer Science), University of Louisiana at Lafayette, (4.00/ 4.00) ------ 2022 - 2024
 
-**MASTER OF TECHNOLOGY** (Environmental Science), Veer Surendra Sai University of Technology, (9.27/ 10.00) ----- 2013 - 2015
+**MASTER OF TECHNOLOGY**, Veer Surendra Sai University of Technology, (9.27/ 10.00) ----- 2013 - 2015
 
-**BACHELOR OF TECHNOLOGY** (Civil Engineering), Institute of Technical education and research, (8.01/ 10.00) ----- 2009 - 2013
+**BACHELOR OF TECHNOLOGY**, Institute of Technical education and research, (8.01/ 10.00) ----- 2009 - 2013
 
 ## 📝 EXPERIENCE
-**Volunteer (University of Louisiana at Lafayette)** ----- June 2024 – Present
 
-Using AWS services like S3, Glue, Lambda, and Athena, I developed an analytics data pipeline that included data lake management, ETL procedures, and dynamic reporting using QuickSight. In addition, I created utilities and automation using Shell/Bash scripting to improve system dependability and performance by doing extensive platform testing and quality assurance.
+**Cloud Engineer (University of Louisiana at Lafayette)** ----- Jan 2023 – May 2024
 
-**Graduate Teaching Assistant (University of Louisiana at Lafayette)** ----- Jan 2023 – May 2024
+* Using AWS services like S3, Glue, Lambda, and Athena, I developed an analytics data pipeline that included data lake management, ETL procedures, and dynamic reporting using QuickSight. In addition, I created utilities and automation using Shell/Bash scripting to improve system dependability and performance by doing extensive platform testing and quality assurance.
 
-I am skilled in configuration management, application deployment, and service orchestration with Ansible. I developed both front-end and back-end components using SQL Developer, including designing database schemas and handling data queries. I monitored network latency impacts on cloud-based services and assisted a professor while mentoring students in Cyber Security and Data Structures & Software Design. Additionally, I managed classroom record-keeping, prepared slides, quizzes, and grading.
+* I am skilled in configuration management, application deployment, and service orchestration with Ansible. I developed both front-end and back-end components using SQL Developer, including designing database schemas and handling data queries. I monitored network latency impacts on cloud-based services and assisted a professor while mentoring students in Cyber Security and Data Structures & Software Design. Additionally, I managed classroom record-keeping, prepared slides, quizzes, and grading.
 
-**Coding Instructor (White-hat Junior)** ----- Sep 2020 – Dec 2021
+**DevOps Cloud Engineer (White-hat Junior)** ----- Sep 2020 – Dec 2021
 
 I worked with development teams to establish CI/CD and cloud best practices, ensuring smooth pipeline execution. Additionally, I mentored a team of 5 teachers, leading daily meetings to enhance student performance and alignment with educational goals, which led to a 95% boost in class efficiency and engagement. I taught JavaScript, AWS, and mathematics to 49 students from various backgrounds and assisted with environment setup and network troubleshooting.
 
@@ -38,13 +37,11 @@ I worked with development teams to establish CI/CD and cloud best practices, ens
 
 With the help of Jenkins, Maven, and Ansible, I designed and executed CI/CD pipelines that greatly shortened deployment times and boosted frequency. To improve code quality tracking, SonarCloud was integrated with JIRA. automated scaling and monitoring of AWS deployments utilizing EC2, S3, and Lambda to optimize workflows. Integrated Docker with Jenkins for scalable continuous delivery, and automated infrastructure provisioning using Terraform and Ansible. Faster incident reactions are the result of optimized monitoring with personalized AWS dashboards.
 
-**Lecturer (Konark Institute of Science and Technology)**	-----	July 2015 – Feb 2017
-
-As an undergraduate teacher, I provided personalized support to students needing extra help, assisted over 40 students with their thesis research, and offered constructive feedback on their presentations. Additionally, I created engaging presentations to improve comprehension and boost class participation.
-
 
 ## 🎯 SKILLS / TRAINING
-**Cloud Platforms:** Amazon Web Services, Microsoft Azure
+**Project Management:** Agile methodologies, Scrum, Kanban, JIRA	
+
+**Cloud Platforms:** Amazon Web Services, Microsoft Azure 				
 
 **laC & Automation:** Terraform, Ansible
 
@@ -60,6 +57,11 @@ As an undergraduate teacher, I provided personalized support to students needing
 
 **Data Analytics tools & packages:** QuickSight, Pandas, Numpy, Matplotlib
 
+**Query languages / Databases:** Microsoft SQL server, PostgreSQL, Kafka
+
+**Microsoft Office Suite:** Advanced Excel, OneNote, Word, Outlook, Teams, SharePoint
+
+**Miscellaneous:** Data analysis, Data modeling, Business process improvement, Requirements gathering, Documentation, User acceptance testing, Stakeholder collaboration, Problem-solving, Critical thinking, Communication, Time management, Attention to detail, Adaptability.
 
 ## 🏆 FEATURED PROJECTS
 
