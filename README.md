@@ -31,11 +31,11 @@
 
 **DevOps Cloud Engineer (White-hat Junior)** ----- Sep 2020 – Dec 2021
 
-I worked with development teams to establish CI/CD and cloud best practices, ensuring smooth pipeline execution. Additionally, I mentored a team of 5 teachers, leading daily meetings to enhance student performance and alignment with educational goals, which led to a 95% boost in class efficiency and engagement. I taught JavaScript, AWS, and mathematics to 49 students from various backgrounds and assisted with environment setup and network troubleshooting.
+* I worked with development teams to establish CI/CD and cloud best practices, ensuring smooth pipeline execution. Additionally, I mentored a team of 5 teachers, leading daily meetings to enhance student performance and alignment with educational goals, which led to a 95% boost in class efficiency and engagement. I taught JavaScript, AWS, and mathematics to 49 students from various backgrounds and assisted with environment setup and network troubleshooting.
 
 **DevOps Engineer (Softvel)** -----	April 2018 – Aug 2020
 
-With the help of Jenkins, Maven, and Ansible, I designed and executed CI/CD pipelines that greatly shortened deployment times and boosted frequency. To improve code quality tracking, SonarCloud was integrated with JIRA. automated scaling and monitoring of AWS deployments utilizing EC2, S3, and Lambda to optimize workflows. Integrated Docker with Jenkins for scalable continuous delivery, and automated infrastructure provisioning using Terraform and Ansible. Faster incident reactions are the result of optimized monitoring with personalized AWS dashboards.
+* With the help of Jenkins, Maven, and Ansible, I designed and executed CI/CD pipelines that greatly shortened deployment times and boosted frequency. To improve code quality tracking, SonarCloud was integrated with JIRA. automated scaling and monitoring of AWS deployments utilizing EC2, S3, and Lambda to optimize workflows. Integrated Docker with Jenkins for scalable continuous delivery, and automated infrastructure provisioning using Terraform and Ansible. Faster incident reactions are the result of optimized monitoring with personalized AWS dashboards.
 
 
 ## 🎯 SKILLS / TRAINING
