@@ -14,42 +14,63 @@
 
 **Sr. Cloud DevOps Engineer (Client:Cigna Health)** ----- June 2024 – Present
 
-* Led the implementation of CI/CD pipelines from scratch using Azure DevOps Pipelines, streamlining the software delivery process, and enabling faster release cycles.
+• Led the implementation of CI/CD pipelines from scratch using Azure DevOps Pipelines, streamlining the software delivery process, and enabling faster release cycles.
+
 • Solely responsible for every release and infrastructure within the cloud and DevOps team, ensuring smooth deployment and operation of applications across development, testing, and production environments.
+
 • Played a pivotal role in Kubernetes administration, leveraging tools like kubectl and k9s to manage containerized applications efficiently, including deployment, scaling, and monitoring.
+
 • Worked extensively on log analytics workspaces, utilizing Azure's robust logging capabilities to gain insights into application performance and troubleshoot issues proactively.
+
 • Utilized Azure Monitor to create log alerts for application logs, enabling timely detection and resolution of critical issues affecting system performance.
+
 • Implemented Helm infrastructure for the project, simplifying the management and deployment of Kubernetes applications, and developed applications using Helm charts.
+
 • Configured SFTP (Secure File Transfer Protocol) for clients to securely send files, ensuring data integrity and confidentiality in file transfer operations.
+
 • Managed SQL databases, creating new databases for clients and assigning appropriate permissions to users for development and production databases.
 
 **DevOps Cloud Engineer (Client:PNC)** ----- Aug 2023 – May 2024
 
-* I worked with development teams to establish CI/CD and cloud best practices, ensuring smooth pipeline execution. Additionally, I mentored a team of 5 teachers, leading daily meetings to enhance student performance and alignment with educational goals, which led to a 95% boost in class efficiency and engagement. I taught JavaScript, AWS, and mathematics to 49 students from various backgrounds and assisted with environment setup and network troubleshooting.
-●	Experienced in deployment of applications on Apache Webserver, Nginx, and Application Servers such as Tomcat, JBoss and Performed automation tasks with the help of PowerShell and Azure CLI.
+• I worked with development teams to establish CI/CD and cloud best practices, ensuring smooth pipeline execution. Additionally, I mentored a team of 5 teachers, leading daily meetings to enhance student performance and alignment with educational goals, which led to a 95% boost in class efficiency and engagement. I taught JavaScript, AWS, and mathematics to 49 students from various backgrounds and assisted with environment setup and network troubleshooting.
+
+• Experienced in deployment of applications on Apache Webserver, Nginx, and Application Servers such as Tomcat, JBoss and Performed automation tasks with the help of PowerShell and Azure CLI.
+
 ●	Implemented Azure Multi-Factor Authentication (MFA) as part of Azure AD Premium to securely authenticate users and created custom Azure templates for rapid deployments and powerful PowerShell scripting.
+
 ●	Built and modified Python, Bash, and PowerShell scripts for various application-level tasks.
+
 ●	Created a fully automated continuous integration system with Git, Jenkins, MySQL, Python and Bash custom tools.
 
 **DevOps Engineer (Client: Growel Softech Limited)** -----	Jan 2019 – Nov 2021
 
-* With the help of Jenkins, Maven, and Ansible, I designed and executed CI/CD pipelines that greatly shortened deployment times and boosted frequency. To improve code quality tracking, SonarCloud was integrated with JIRA. automated scaling and monitoring of AWS deployments utilizing EC2, S3, and Lambda to optimize workflows. Integrated Docker with Jenkins for scalable continuous delivery, and automated infrastructure provisioning using Terraform and Ansible. Faster incident reactions are the result of optimized monitoring with personalized AWS dashboards.
+• With the help of Jenkins, Maven, and Ansible, I designed and executed CI/CD pipelines that greatly shortened deployment times and boosted frequency. To improve code quality tracking, SonarCloud was integrated with JIRA. automated scaling and monitoring of AWS deployments utilizing EC2, S3, and Lambda to optimize workflows. Integrated Docker with Jenkins for scalable continuous delivery, and automated infrastructure provisioning using Terraform and Ansible. Faster incident reactions are the result of optimized monitoring with personalized AWS dashboards.
 
 **Build & Release Engineer (Client:Symmetric Solutions)** ------ Nov 2016- Dec 2018
 
-* ●	Developed and implemented Software Release Management strategies for various applications according to the Agile process.
-●	Collaborated with Architects, Systems, Network, Software and QA Engineers, and to continuously improve the efficiency and reliability of Build and Deployment processes to support all phases of development including production releases.
+●	Developed and implemented Software Release Management strategies for various applications according to the Agile process.
+
+●	Collaborated with Architects, Systems, Network, Software and QA Engineers, and to continuously improve the efficiency and reliability of Build and Deployment processes to support 
+all phases of development including production releases.
+
 ●	Migrated monolithic application deployments to microservices architecture with CI/CD pipelines, enhancing scalability and fault tolerance.
+
 ●	Wrote Puppet manifests for deploying, configuring, installing shield, and managing collected for metric collection and monitoring.
 
 **Linux Administrator (Client: EIS Technologies India)** ------ Sep 2013- Oct 2016
 
-*•	Created and maintained user accounts in Red Hat Enterprise Linux (RHEL)and other operating systems.
+•	Created and maintained user accounts in Red Hat Enterprise Linux (RHEL)and other operating systems.
+
 •	Troubleshooting and maintaining of TCP/IP, Apache HTTP/HTTPS, SMTP and DNS applications.
+
 •	Configuration of NIS, DNS, NFS, SAMBA, SENDMAIL, LDAP, TCP/IP, Send Mail, FTP, Remote access Apache Services on Linux &Unix Environment.
+
 •	Migrated different projects from Perforce to SVN
+
 •	Diagnosed and resolved problems associated with DNS, DHCP, VPN, NFS, and Apache.
+
 •	Created Bash/shell scripts to monitor system resources and system maintenance.
+
 •	Resolved configuration-based issues in coordination with infrastructure support teams.
 
 
