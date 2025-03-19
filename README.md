@@ -28,24 +28,39 @@
 
 ## 🎯 TECHNICAL SKILLS
 **Build Tools:** 	MAVEN, Gradle, Ant, MS Build
+
 **Project Management:**  Tools	JIRA, REMEDY, Azure DevOps.
+
 **Version Control Tools / Source code management:** 	GIT, GitLab, Bitbucket, GitHub, Subversion, Azure Repos.
+
 **Automation Containerization & Orchestration:** 	Docker, Kubernetes, Marathon and Mesos, EKS, AKS, Helm
+
 **CICD:** 	Jenkins, Team city, Azure DevOps, harness
+
 **Configuration Management:** 	Puppet, Ansible and Chef.
+
 **Cloud Services:** 	Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform.
+
 **Infrastructure as a Code (IAC):** 	Terraform, CloudFormation Templates and ARM
+
 **Monitoring Tools:** 	Grafana, Splunk, ELK Stack, AppDynamics, Data Dog, cloud watch, Nagios, Prometheus, Dynatrace, New Relic
+
 **Operating Systems:** 	RHEL (6.x, 7x), SUSE Linux, CentOS 5,6, Windows 2008, VMware, Ubuntu, Win2016R.
+
 **Networking:** 	TCP/IP, NIS, NIS+ NFS, DNS, DHCP, WAN, SMTP, LAN, Ff P/TFTP, TELNET, Firewalls.
+
 **Database Servers:** 	Oracle 9i, 10g, MySQL7.0, 6.5, RDBMS Oracle, PostgreSQL, Cassandra
+
 **Web/Application Servers:** 	WebLogic, WebSphere, JBoss, Apache Server, Apache Tomcat.
+
 **Scripting Languages:** 	Bash and Shell scripting, Ruby, Python, YAML, Groovy, PowerShell
+
 **Languages:**	Java/J2EE, C#, Python
+
 **SDLC:**	DevOps, Agile and Waterfall.
+
 **Deployment Tools:**	U-Deploy, Argo CD, run deck, AWS Deploy.
 
-![image](https://github.com/user-attachments/assets/9121d8d1-e89a-4f74-b3fc-56af9257ea1f)
 
 ## 🎯 SKILLS / TRAINING
 **Project Management:** Agile methodologies, Scrum, Kanban, JIRA	
