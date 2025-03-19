@@ -36,11 +36,11 @@
 
 • Experienced in deployment of applications on Apache Webserver, Nginx, and Application Servers such as Tomcat, JBoss and Performed automation tasks with the help of PowerShell and Azure CLI.
 
-●	Implemented Azure Multi-Factor Authentication (MFA) as part of Azure AD Premium to securely authenticate users and created custom Azure templates for rapid deployments and powerful PowerShell scripting.
+•	Implemented Azure Multi-Factor Authentication (MFA) as part of Azure AD Premium to securely authenticate users and created custom Azure templates for rapid deployments and powerful PowerShell scripting.
 
-●	Built and modified Python, Bash, and PowerShell scripts for various application-level tasks.
+•	Built and modified Python, Bash, and PowerShell scripts for various application-level tasks.
 
-●	Created a fully automated continuous integration system with Git, Jenkins, MySQL, Python and Bash custom tools.
+•	Created a fully automated continuous integration system with Git, Jenkins, MySQL, Python and Bash custom tools.
 
 **DevOps Engineer (Client: Growel Softech Limited)** -----	Jan 2019 – Nov 2021
 
@@ -48,14 +48,14 @@
 
 **Build & Release Engineer (Client:Symmetric Solutions)** ------ Nov 2016- Dec 2018
 
-●	Developed and implemented Software Release Management strategies for various applications according to the Agile process.
+•	Developed and implemented Software Release Management strategies for various applications according to the Agile process.
 
-●	Collaborated with Architects, Systems, Network, Software and QA Engineers, and to continuously improve the efficiency and reliability of Build and Deployment processes to support 
+•	Collaborated with Architects, Systems, Network, Software and QA Engineers, and to continuously improve the efficiency and reliability of Build and Deployment processes to support 
 all phases of development including production releases.
 
-●	Migrated monolithic application deployments to microservices architecture with CI/CD pipelines, enhancing scalability and fault tolerance.
+•	Migrated monolithic application deployments to microservices architecture with CI/CD pipelines, enhancing scalability and fault tolerance.
 
-●	Wrote Puppet manifests for deploying, configuring, installing shield, and managing collected for metric collection and monitoring.
+•	Wrote Puppet manifests for deploying, configuring, installing shield, and managing collected for metric collection and monitoring.
 
 **Linux Administrator (Client: EIS Technologies India)** ------ Sep 2013- Oct 2016
 
@@ -110,31 +110,6 @@ all phases of development including production releases.
 
 **Deployment Tools:**	U-Deploy, Argo CD, run deck, AWS Deploy.
 
-
-## 🎯 SKILLS / TRAINING
-**Project Management:** Agile methodologies, Scrum, Kanban, JIRA	
-
-**Cloud Platforms:** Amazon Web Services, Microsoft Azure 				
-
-**laC & Automation:** Terraform, Ansible
-
-**CI/CD Tools:** Jenkins, GitLab, Udeploy, GitHub Actions
-
-**Monitoring:** CloudWatch, Prometheus
-
-**Virtualization & Containerization:** Docker, Kubernetes
-
-**Language & Scripting:** Bash/Shell scripting, Java, Python, SQL, Unix
-
-**Operating Systems:** Linux, Windows 
-
-**Data Analytics tools & packages:** QuickSight, Pandas, Numpy, Matplotlib
-
-**Query languages / Databases:** Microsoft SQL server, PostgreSQL, Kafka
-
-**Microsoft Office Suite:** Advanced Excel, OneNote, Word, Outlook, Teams, SharePoint
-
-**Miscellaneous:** Data analysis, Data modeling, Business process improvement, Requirements gathering, Documentation, User acceptance testing, Stakeholder collaboration, Problem-solving, Critical thinking, Communication, Time management, Attention to detail, Adaptability.
 
 ## 🏆 FEATURED PROJECTS
 
