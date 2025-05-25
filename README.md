@@ -1,7 +1,7 @@
 # 💎  DevOps/ AWS Engineer
 
 ## 📌 ABOUT ME
-9+ years experienced Cloud DevOps Engineer possessing in-depth experience of effectively handling development, configuration and deployment of infrastructure and services managing cloud-based technology. Gained hands-on experience implementing core DevOps concepts such as containerization, continuous integration/continuous deployment, version control, cloud computing etc. by using wide variety of technologies while working with different operating system and programming language.
+Experienced Cloud DevOps Engineer possessing in-depth experience of effectively handling development, configuration and deployment of infrastructure and services managing cloud-based technology. Gained hands-on experience implementing core DevOps concepts such as containerization, continuous integration/continuous deployment, version control, cloud computing etc. by using wide variety of technologies while working with different operating system and programming language.
 
 
 ## 📚 EDUCATION
@@ -9,10 +9,10 @@
 **MASTER OF SCIENCE** (Computer Science), University of Louisiana at Lafayette, (4.00/ 4.00) ------ 2022 - 2024
 
 **BACHELOR OF TECHNOLOGY**, Institute of Technical education and research, (8.01/ 10.00) ----- 2009 - 2013
-
+<!--
 ## 📝 EXPERIENCE
 
-**Sr. Cloud DevOps Engineer (Client:Cigna Health)** ----- June 2024 – Present
+ **Sr. Cloud DevOps Engineer (Client:Cigna Health)** ----- June 2024 – Present
 
 • Led the implementation of CI/CD pipelines from scratch using Azure DevOps Pipelines, streamlining the software delivery process, and enabling faster release cycles.
 
@@ -73,6 +73,16 @@ all phases of development including production releases.
 
 •	Resolved configuration-based issues in coordination with infrastructure support teams.
 
+-->
+
+## 🏆 FEATURED PROJECTS
+
+**Youtube Analysis Using Cloud**
+* The Data Engineering YouTube Analysis Project focuses on managing and analyzing YouTube video data, emphasizing categories and trends, using AWS cloud services for efficient data processing and reporting.
+Services used: a)S3 b)IAM c)QuickSight d)Glue e)Lambda f)Athena
+
+**Data Base Management**
+* Developed both the front-end and back-end using SQL Developer. This involved creating the user interface components and logic for data presentation, input, and interaction (front-end), as well as designing and implementing the database schema, queries, and procedures to manage and manipulate data (back-end).
 
 
 ## 🎯 TECHNICAL SKILLS
@@ -111,14 +121,6 @@ all phases of development including production releases.
 **Deployment Tools:**	U-Deploy, Argo CD, run deck, AWS Deploy.
 
 
-## 🏆 FEATURED PROJECTS
-
-**Youtube Analysis Using Cloud**
-* The Data Engineering YouTube Analysis Project focuses on managing and analyzing YouTube video data, emphasizing categories and trends, using AWS cloud services for efficient data processing and reporting.
-Services used: a)S3 b)IAM c)QuickSight d)Glue e)Lambda f)Athena
-
-**Data Base Management**
-* Developed both the front-end and back-end using SQL Developer. This involved creating the user interface components and logic for data presentation, input, and interaction (front-end), as well as designing and implementing the database schema, queries, and procedures to manage and manipulate data (back-end).
 
 ## 🎖 CERTIFICATIONS
 
