@@ -72,7 +72,6 @@ all phases of development including production releases.
 •	Created Bash/shell scripts to monitor system resources and system maintenance.
 
 •	Resolved configuration-based issues in coordination with infrastructure support teams.
-
 -->
 
 ## 🏆 FEATURED PROJECTS
