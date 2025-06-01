@@ -1,7 +1,7 @@
 # 💎  DevOps/ AWS Engineer
 
 ## 📌 ABOUT ME
-Experienced Cloud DevOps Engineer possessing in-depth experience of effectively handling development, configuration and deployment of infrastructure and services managing cloud-based technology. Gained hands-on experience implementing core DevOps concepts such as containerization, continuous integration/continuous deployment, version control, cloud computing etc. by using wide variety of technologies while working with different operating system and programming language.
+Experienced Cloud DevOps/ Data Engineer possessing in-depth experience of effectively handling development, configuration and deployment of infrastructure and services managing cloud-based technology. Gained hands-on experience implementing core DevOps concepts such as containerization, continuous integration/continuous deployment, version control, cloud computing etc. by using wide variety of technologies while working with different operating system and programming language.
 
 
 ## 📚 EDUCATION
